@@ -1,4 +1,4 @@
 peripecio_repo
 ==============
 
-Prueba repositorio
+Prueba de creación de repositorio en GitHub.
